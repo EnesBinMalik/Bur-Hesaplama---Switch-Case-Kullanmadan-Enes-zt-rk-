@@ -1,0 +1,6 @@
+{
+  "name": "Burç Hesaplama - Switch-Case Kullanmadan (Enes Öztürk)",
+  "description": "Switch-case kullanmadan modern veri yapıları ve eşik algoritmaları ile doğum tarihinden burç hesaplama uygulaması ve ödev çözümü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
